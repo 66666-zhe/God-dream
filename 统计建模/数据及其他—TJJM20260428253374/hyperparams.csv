@@ -1,0 +1,4 @@
+﻿模型,最优参数
+随机森林,"{'n_estimators': 104, 'max_depth': 8, 'min_samples_split': 2}"
+XGBoost,"{'learning_rate': 0.26064577291912266, 'max_depth': 6, 'n_estimators': 580, 'subsample': 0.7049950753290416, 'colsample_bytree': 0.9041093444687247}"
+LightGBM,"{'learning_rate': 0.16408867460952758, 'num_leaves': 56, 'n_estimators': 449, 'subsample': 0.8978608967750924, 'colsample_bytree': 0.9282310339904819}"
